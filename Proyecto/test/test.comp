@@ -1,0 +1,37 @@
+running proyecto :
+ent c=5,
+const ent t=7,
+dec b=5.23,
+cad cadena = holis_,
+imprime("holis_como"),
+ciclo if (4>=5) then ciclo_if_sencillo,
+ciclo if ((9/3)==(1+1)) then ciclo_condi,
+ciclo if ((5+5)==(8+2)) o ((3+2)==(4+1)) then ciclo_doble_condicion,
+ciclo for (ent i=1, i==10, i++)
+ent k=120,
+ciclo while (k==100)
+{
+	7+3,
+	10*10,
+	ent l=3,
+	dec m=3.14,
+	cad n= cadena_en_while,
+	imprime("CICLO_WHILE"),
+	ciclo if (5>=7) then uff_funciona,
+	ciclo for (ent q=10, q==1, q--)
+	dec vectordos[3]={1.2,1.4,1.3,}
+	k--
+}
+ent vector[5]={5,3,4,6,7,}
+cad vectortres[2]={"Perla","King_8",}
+
+fuction {
+imprime("Estamos_en_una_funcion"),
+ent matriz[3][2]={{0,1,2,}{3,4,5,}}
+cad matrizdos[4][3]={{"Perlita","Josue","Jenni","Judith",}{"Familia","King","Calderon","8D",}{"La","mejor","de","todas",}}
+ciclo if ((4+4)==(2+6)) y ((16/2)==(2*4)) then ciclo_doble_condicion_y,
+
+}
+:
+
+
